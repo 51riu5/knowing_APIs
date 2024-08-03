@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #0b50db;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(15px + 2vmin);
+  color: white;
+}
+
+input {
+  margin: 5px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 10px;
+}
+
+.UserProfile, .RepoSuggestions {
+  margin-top: 20px;
+  color: white;
+}
+
+.UserProfile img {
+  width: 100px;
+  border-radius: 50%;
+}
+
+.RepoSuggestions ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.RepoSuggestions li {
+  margin: 10px 0;
+}
+
+.BarChart {
+  margin: 20px;
+}
