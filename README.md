@@ -8,5 +8,5 @@ A comprehensive project to explore and utilize various APIs. This repository con
 
 # Getting Started
 _Prerequisites_
-Node.js (version 14 or higher)
-npm (included with Node.js)
+- Node.js (version 14 or higher)
+- npm (included with Node.js)
